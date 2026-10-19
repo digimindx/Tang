@@ -1,1 +1,45 @@
-tree.md
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio / Rider cache and project files
+.vs/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.nib
+
+# VS Code workspace settings (Uncomment if you want to ignore all VS Code settings)
+# .vscode/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+EhThumbs.db
+Thumbs.db
+
+# User-specific files
+*.rsuser
+*.pdb
+*.DotSettings.user
+
+# Avalonia / .NET specific
+*.DotSettings.user
