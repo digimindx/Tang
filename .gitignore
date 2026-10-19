@@ -43,3 +43,4 @@ Thumbs.db
 
 # Avalonia / .NET specific
 *.DotSettings.user
+.fake
