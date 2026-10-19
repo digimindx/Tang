@@ -1,0 +1,12 @@
+D:\Tutorials\github.com\tangerine for windows\TangApp.Core\bin\Debug\net10.0\TangApp.Core.deps.json
+D:\Tutorials\github.com\tangerine for windows\TangApp.Core\bin\Debug\net10.0\TangApp.Core.dll
+D:\Tutorials\github.com\tangerine for windows\TangApp.Core\bin\Debug\net10.0\TangApp.Core.pdb
+D:\Tutorials\github.com\tangerine for windows\TangApp.Core\obj\Debug\net10.0\TangApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorials\github.com\tangerine for windows\TangApp.Core\obj\Debug\net10.0\TangApp.Core.AssemblyInfoInputs.cache
+D:\Tutorials\github.com\tangerine for windows\TangApp.Core\obj\Debug\net10.0\TangApp.Core.AssemblyInfo.cs
+D:\Tutorials\github.com\tangerine for windows\TangApp.Core\obj\Debug\net10.0\TangApp.Core.csproj.CoreCompileInputs.cache
+D:\Tutorials\github.com\tangerine for windows\TangApp.Core\obj\Debug\net10.0\TangApp.Core.sourcelink.json
+D:\Tutorials\github.com\tangerine for windows\TangApp.Core\obj\Debug\net10.0\TangApp.Core.dll
+D:\Tutorials\github.com\tangerine for windows\TangApp.Core\obj\Debug\net10.0\refint\TangApp.Core.dll
+D:\Tutorials\github.com\tangerine for windows\TangApp.Core\obj\Debug\net10.0\TangApp.Core.pdb
+D:\Tutorials\github.com\tangerine for windows\TangApp.Core\obj\Debug\net10.0\ref\TangApp.Core.dll

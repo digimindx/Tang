@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TangApp.Core/TangApp.Core.csproj" />
+  <Project Path="TangApp.UI/TangApp.UI.csproj" />
+</Solution>
